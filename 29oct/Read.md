@@ -258,3 +258,11 @@ for i in range(rows):
         print("* ", end="")
     print("\n")
 ```
+## AI ROBOT TO PICK UP peppers 
+[![SC2 Video](https://img.youtube.com/vi/--b-5chk9Sory88/0.jpg)](http://www.youtube.com/watch?v=--b-5chk9Sory88)
+## how robot can help in ai 
+[![SC2 Video](https://img.youtube.com/vi/--b-gfCEQgx4d-4/0.jpg)](http://www.youtube.com/watch?v=--b-gfCEQgx4d-4)
+
+
+## ai invitations by Microsoft 
+[![SC2 Video](https://img.youtube.com/vi/--b-C4W0qSQ6A8U/0.jpg)](http://www.youtube.com/watch?v=--b-C4W0qSQ6A8U)
